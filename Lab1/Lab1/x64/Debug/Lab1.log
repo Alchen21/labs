@@ -1,0 +1,5 @@
+﻿  Lab1.cpp
+  Work.cpp
+C:\Users\User\Desktop\Lab1\Lab1\Work.cpp(110,46): warning C4307: "+": переполнение целой константы со знаком
+  Создание кода...
+  Lab1.vcxproj -> C:\Users\User\Desktop\Lab1\x64\Debug\Lab1.exe
