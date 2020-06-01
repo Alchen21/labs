@@ -50,10 +50,6 @@ namespace LB3
             int[] a = new int[n];
             for (int i = 0; i < n; ++i)
             {
-                Console.Write("a[{0}]= ", i);
-                a[i] = int.Parse(Console.ReadLine());
-            }
-            return a;
         }
         private static void Print(int[] a, int n)
         {
