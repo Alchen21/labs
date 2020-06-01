@@ -1,0 +1,14 @@
+C:\Users\Maksim\Google_Drive\Учёба\2 курс\Безпечне програмування\Димок\KR2_1\KR2_1\bin\Debug\KR2_1.exe.config
+C:\Users\Maksim\Google_Drive\Учёба\2 курс\Безпечне програмування\Димок\KR2_1\KR2_1\bin\Debug\KR2_1.exe
+C:\Users\Maksim\Google_Drive\Учёба\2 курс\Безпечне програмування\Димок\KR2_1\KR2_1\bin\Debug\KR2_1.pdb
+C:\Users\Maksim\Google_Drive\Учёба\2 курс\Безпечне програмування\Димок\KR2_1\KR2_1\obj\Debug\KR2_1.csprojAssemblyReference.cache
+C:\Users\Maksim\Google_Drive\Учёба\2 курс\Безпечне програмування\Димок\KR2_1\KR2_1\obj\Debug\KR2_1.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\Google_Drive\Учёба\2 курс\Безпечне програмування\Димок\KR2_1\KR2_1\obj\Debug\KR2_1.exe
+C:\Users\Maksim\Google_Drive\Учёба\2 курс\Безпечне програмування\Димок\KR2_1\KR2_1\obj\Debug\KR2_1.pdb
+E:\High Sierra\KR2_1\KR2_1\bin\Debug\KR2_1.exe.config
+E:\High Sierra\KR2_1\KR2_1\bin\Debug\KR2_1.exe
+E:\High Sierra\KR2_1\KR2_1\bin\Debug\KR2_1.pdb
+E:\High Sierra\KR2_1\KR2_1\obj\Debug\KR2_1.csprojAssemblyReference.cache
+E:\High Sierra\KR2_1\KR2_1\obj\Debug\KR2_1.csproj.CoreCompileInputs.cache
+E:\High Sierra\KR2_1\KR2_1\obj\Debug\KR2_1.exe
+E:\High Sierra\KR2_1\KR2_1\obj\Debug\KR2_1.pdb
